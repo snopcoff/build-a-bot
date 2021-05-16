@@ -17,7 +17,7 @@ const parts = {
             src: images('./head-friendly.png'),
             cost: 945.0,
             type: 'heads',
-            onSales: true,
+            onSale: true,
         },
         {
             id: 3,
